@@ -1,0 +1,9 @@
+As in the picture, We need to create an Ui interface in ReactJs. 
+Things to note and to implement:
+1. The Instagram and Decathlon logo's should be in a same closed box frame layout as same in the picture.
+2. Add the instagram and Decathlon Logo as same in the picture.
+3. Add Upload image option.
+4. The "Reset" button should clear the Session(Pictures).
+5. Find a match should find through vector scaling.
+6. Matching Products should have an scroll option to scroll for more related pictures after Clicking "Find a Match"
+7. The Ui should be more professional and use some gradient colors in background to look more professional
